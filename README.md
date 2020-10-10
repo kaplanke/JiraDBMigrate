@@ -5,7 +5,7 @@ Migrate issues from one DB to another
 
 **!! Be careful while performing DB operations in your JIRA environment !!**
 
-**!! DB migration is not suggessted !!**
+**!! DB migration is not suggested !!**
 
 
 If you are still here, then you are desperately looking for a solution to migrate your JIRA issues between DB's without using commercial plugins.
